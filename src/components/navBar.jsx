@@ -13,7 +13,7 @@ const NavBar = () => {
           </li>
           <li className="nav-item active">
             <NavLink className="nav-link " aria-current="page" to="/favorites">
-              Избранное
+              Избранные
             </NavLink>
           </li>
         </ul>
